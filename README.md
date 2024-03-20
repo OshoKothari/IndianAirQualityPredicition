@@ -20,9 +20,6 @@ This repository contains code and documentation for a machine learning model des
 **Contributing:**
 Contributions are welcome! If you have suggestions, feature requests, or want to report issues, please open an issue or create a pull request.
 
-**License:**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 **Authors:**
 - [Osho Kothari](https://github.com/OshoKothari)
 - [Nabin Kumar Sah](https://github.com/nabinkrsah)
