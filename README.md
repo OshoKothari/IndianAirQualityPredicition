@@ -1,5 +1,5 @@
 
-**Air Quality Prediction Model for India**
+**Indian Air Quality Prediction**
 
 This repository contains code and documentation for a machine learning model designed to predict the Air Quality Index (AQI) in various regions across India. The model utilizes historical data from different cities in India, integrating diverse machine learning algorithms such as linear regression, k-Nearest Neighbors regression, decision tree regression, support vector regression, and random forest regression.
 
